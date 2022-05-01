@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Viet Nguyen (@lk153)
-- 👀 I’m interested in system architecture and coding practice
-- 🌱 I’m currently learning Go and Event Driven
-- 💞️ I’m looking to collaborate on Tracking System project
-- 📫 Feel free to reach me at vietnguyen148@gmail.com
+- 👋 Viet is my name, or you can call me Edward (@lk153)
+- 👀 System architecture and coding practice are my concern and interested in
+- 🌱 Go are my daily work language
+- 💞️ Tracking System project is the collaboration project that I want to build
+- 📫 Feel free to reach me at vietnguyen148@gmail.com. Ready to listen your voice :D
 
 <!---
 lk153/lk153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
