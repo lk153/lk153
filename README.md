@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk153&layout=compact&langs_count=14&theme=dracula&cache_seconds=86400"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="vietnguyen298-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
+  <img align="center" alt="vietnguyen298-go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="vietnguyen298-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vietnguyen298-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
