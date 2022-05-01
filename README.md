@@ -1,6 +1,6 @@
 - 👋 Viet is my name, or you can call me Edward (@lk153)
 - 👀 System architecture and coding practice are my concern and interested in
-- 🌱 Go are my daily work language <img align="center" alt="vietnguyen298-go" height="30" width="30" src="https://github.com/rfyiamcool/golang_logo/blob/master/jpg/golang_9.png" target="_blank">
+- 🌱 Go are my daily work language <img align="center" alt="vietnguyen298-go" height="50" width="50" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/jpg/golang_9.png" target="_blank">
 - 💞️ Tracking System project is the collaboration project that I want to build
 - 📫 Feel free to reach me at vietnguyen148@gmail.com. Ready to listen your voice :D
 
