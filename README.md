@@ -16,7 +16,7 @@
 
  <div>
   <a href="https://github.com/lk153">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lk153&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lk153&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk153&layout=compact&langs_count=14&theme=dracula&cache_seconds=86400"/>
 </div>
 <div style="display: inline_block"><br>
