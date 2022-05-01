@@ -2,7 +2,7 @@
 - 👀 System architecture and coding practice are my concern and interested in
 - 🌱 Go are my daily work language <img align="center" alt="vietnguyen298-go" height="50" width="50" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/jpg/golang_9.png" target="_blank">
 - 💞️ Tracking System project is the collaboration project that I want to build
-- 📫 Feel free to reach me at vietnguyen148@gmail.com. Ready to listen your voice :D
+- 📫 Feel free to reach me at vietnguyen148@gmail.com
 
 # [Viet's Notes](https://www.vietnguyen298.dev)
 
